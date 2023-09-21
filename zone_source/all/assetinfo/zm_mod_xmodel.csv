@@ -1,0 +1,3 @@
+name,refs,radius,onePixelDist,lodCount,verts0,tris0,verts1,tris1,verts2,tris2,verts3,tris3,verts4,tris4,verts5,tris5,verts6,tris6,verts7,tris7
+custom_skeleton_body,1,110.38,142461.28,1,11545,14342
+custom_skeleton_head,1,122.77,158459.34,1,1903,2308

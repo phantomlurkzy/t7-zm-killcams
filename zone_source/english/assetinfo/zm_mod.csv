@@ -1,0 +1,7 @@
+index,type,name,resident,streamed,parentStack
+1,string,,0,0,||assetlist
+2,localize,SND_ZOMBIE_ELIMINATED,23,0,||assetlist
+3,localize,ZOMBIE_ELIMINATED,37,0,||assetlist
+4,localize,ZOMBIE_SURVIVED,31,0,||assetlist
+5,keyvaluepairs,en_zm_mod,1127,0,||assetlist
+6,assetlist,,64,0,
